@@ -10,13 +10,12 @@ OpenTraffic is an open-source ecosystem for AI traffic signal control. It provid
 - [cars_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/cars-detection): Vehicle model recognition using YOLOv11 for multi-class object detection.
 - [non-motor-vehicle](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/non-motor-vehicle): Non-motorized vehicle detection for traffic monitoring using YOLOv11.
 - [snow_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/snow_detection): Multi‑feature fusion road snow detection system supporting real‑time video, snow level assessment, and lane visibility analysis.
-- [water_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/water_detection): Road waterlogging detection system supporting traditional vision methods and deep learning segmentation, with water level assessment and real‑time video inference.
 
 ### Target tracking
 - [vehicle traffic flow detection system](https://github.com/XiaoCheng-builder/YOLO-ALG/blob/main/vehicle_flow_detection): Multi‑object tracking and traffic flow counting system based on YOLOv11 + DeepSORT, supporting counting line crossing statistics, ROI‑based entry/exit counting, and vehicle speed analysis
   
-### General Foundation Models
-- [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) (AAAI 2026 (Oral)): An Effective Paradigm for Tiny-Scale Vision-Language-Action Model  
+### segmentation
+- [water_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/water_detection): Road waterlogging detection system supporting traditional vision methods and deep learning segmentation, with water level assessment and real‑time video inference.
 - [LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) (ICRA 2026): A Simple Yet Powerful Vision-Language-Action Model
 
 ### Visual Feature Alignment for VLAs
