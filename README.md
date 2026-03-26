@@ -4,7 +4,7 @@ OpenTraffic is an open-source ecosystem for AI traffic signal control. It provid
 
 
 ## Introduction
-**XiaoCheng-builder** introduces a novel family of **fully open-source** Vision Small Models, which deliver **state-of-the-art performance** at a significantly lower cost.
+**OpenTraffic** introduces a novel family of **fully open-source** Vision Small Models, which deliver **state-of-the-art performance** at a significantly lower cost.
 
 ### Visual object detection
 - [cars_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/cars-detection): Vehicle model recognition using YOLOv11 for multi-class object detection.
