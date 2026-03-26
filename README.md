@@ -17,6 +17,8 @@ OpenTraffic is an open-source ecosystem for AI traffic signal control. It provid
 ### Traffic Anomaly Detection
 - [integrated_traffic_system_v3_yolo](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/integrated_traffic_system_v3_yolo): YOLOv11 + DeepSORT based unified system for detecting retrograde, queue, conflict, red‑light violation, and timing anomalies in traffic scenes. Supports vehicle/pedestrian detection, world‑coordinate transformation, and multi‑task visualization.
 
+- [traffic_light_timing_validation](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/traffic_light_timing_validation): YOLO‑based traffic light timing validation system supporting duration checks, sequence verification, multi‑direction synchronization, and anomaly detection (flicker, stuck, multiple lights on). Includes interactive region setup and detailed report generation.
+
 ### Image Segmentation
 - [water_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/water_detection): Road waterlogging detection system supporting traditional vision methods and deep learning segmentation, with water level assessment and real‑time video inference.
 
@@ -29,7 +31,3 @@ This initiative is jointly established and co-developed with the following resea
 
 ## Contact
 If you are interested in discussion or joining us, please send emails to 1753390706@qq.com.
-
-
-</div>
-
