@@ -1,5 +1,9 @@
 # OpenTraffic
-OpenTraffic is an open-source ecosystem for AI traffic signal control. It provides a unified TSC agent framework, standardized interfaces, and reproducible benchmarks for single intersections, multi-intersection coordination, and large-scale networks, helping teams move from research to deployment faster.
+OpenTraffic is a next‑generation open‑source ecosystem for intelligent traffic perception, designed to bridge the gap between cutting‑edge vision research and real‑world traffic analytics. It delivers a unified, modular foundation that empowers researchers, engineers, and urban mobility innovators to build, benchmark, and deploy high‑performance traffic understanding systems with unprecedented efficiency.
+
+Powered by state‑of‑the‑art vision models and a flexible pipeline architecture, OpenTraffic abstracts away the complexity of multi‑object tracking, anomaly detection, and scene quality assessment, enabling teams to focus on solving domain‑specific challenges. Its components are engineered for scalability—from edge cameras to cloud clusters—and come with reproducible benchmarks, interactive annotation tools, and seamless integration paths.
+
+With OpenTraffic, what once required months of custom development can now be assembled in days. It is not merely a collection of models, but a complete production‑ready framework that accelerates the entire lifecycle: data generation, model training, real‑time inference, and system evaluation. Whether you are managing a single intersection or a city‑wide network, OpenTraffic provides the building blocks to turn visual data into actionable traffic intelligence—open, transparent, and built for the future.
 
 
 
