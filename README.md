@@ -22,13 +22,10 @@ OpenTraffic is an open-source ecosystem for AI traffic signal control. It provid
 
 This initiative is jointly established and co-developed with the following research institutions:
 
-- Westlake University  
-- The Hong Kong University of Science and Technology (Guangzhou)  
-- Zhejiang University  
 - Tsinghua University  
-- Beijing Academy of Artificial Intelligence (BAAI)  
-- Xi’an Jiaotong University  
+- Beijing Jiaotong University  
 - Beijing University of Posts and Telecommunications
+
 
 ## Contact
 If you are interested in discussion or joining us, please send emails to 1753390706@qq.com.
