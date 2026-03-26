@@ -12,7 +12,7 @@ OpenTraffic is an open-source ecosystem for AI traffic signal control. It provid
 - [snow_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/snow_detection): Multi‑feature fusion road snow detection system supporting real‑time video, snow level assessment, and lane visibility analysis.
 
 ### Target tracking
-- [vehicle traffic flow detection system](https://github.com/XiaoCheng-builder/YOLO-ALG/blob/main/vehicle_flow_detection): Multi‑object tracking and traffic flow counting system based on YOLOv11 + DeepSORT, supporting counting line crossing statistics, ROI‑based entry/exit counting, and vehicle speed analysis
+- [vehicle_flow_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/blob/main/vehicle_flow_detection): Multi‑object tracking and traffic flow counting system based on YOLOv11 + DeepSORT, supporting counting line crossing statistics, ROI‑based entry/exit counting, and vehicle speed analysis
   
 ### segmentation
 - [water_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/water_detection): Road waterlogging detection system supporting traditional vision methods and deep learning segmentation, with water level assessment and real‑time video inference.
