@@ -9,9 +9,9 @@ OpenTraffic is an open-source ecosystem for AI traffic signal control. It provid
 ### Visual object detection
 
 - [cars_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/cars-detection): Vehicle model recognition using YOLOv11 for multi-class object detection.
-- 
+
 - [non-motor-vehicle](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/non-motor-vehicle): Non-motorized vehicle detection for traffic monitoring using YOLOv11.
-- 
+
 - [snow_detection](https://github.com/XiaoCheng-builder/YOLO-ALG/tree/main/snow_detection): Multi‑feature fusion road snow detection system supporting real‑time video, snow level assessment, and lane visibility analysis.
 
 ### Target tracking
